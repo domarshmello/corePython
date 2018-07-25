@@ -1,0 +1,1 @@
+# 安装 与数学相关的numpy模块 ，使用pip3 命令安装 pip3 install numpy
