@@ -2,4 +2,4 @@
 
 def printData(data):
     print("-----test-----")
-    print(date)
+    print(data)
