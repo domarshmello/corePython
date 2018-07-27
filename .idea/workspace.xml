@@ -2,25 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9494452e-7783-488b-8410-56836d20b984" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/class类/learn_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/class类/learn_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/class类/learn_initClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/class类/learn_initClass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/import模块/learn_import.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/import模块/learn_import.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/input/learn_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/input/learn_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pickle存放数据/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pickle存放数据/learn_pickle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/set功能/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/set功能/learn_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tkinter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/多核运算/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/多线程/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/zip/learn_zip.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zip/learn_zip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/元组vs列表/learn_addList.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/元组vs列表/learn_addList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/元组vs列表/learn_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/元组vs列表/learn_tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/多维列表/learn_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/多维列表/learn_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/字典dictionary/learn_dic.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/字典dictionary/learn_dic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/循环/learn_break.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/循环/learn_break.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/循环/learn_continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/循环/learn_continue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/浅复制and深复制/learn_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/浅复制and深复制/learn_copy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/自定义模块/learn_importMyModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/自定义模块/learn_importMyModule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/自定义模块/learn_my.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/自定义模块/learn_my.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/读写文件/learn_appendFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/读写文件/learn_appendFile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/读写文件/learn_readFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/读写文件/learn_readFile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/读写文件/learn_saveText.py" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/读写文件/learn_saveText.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,38 +20,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/corePython$learn_for.coverage" NAME="learn_for Coverage Results" MODIFIED="1532502369708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/循环" />
-    <SUITE FILE_PATH="coverage/corePython$learn_tuple.coverage" NAME="learn_tuple Coverage Results" MODIFIED="1532514442699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/元组" />
-    <SUITE FILE_PATH="coverage/corePython$learn_list.coverage" NAME="learn_list Coverage Results" MODIFIED="1532613295422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/多维列表" />
-    <SUITE FILE_PATH="coverage/corePython$learn_appendFile.coverage" NAME="learn_appendFile Coverage Results" MODIFIED="1532508358899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/读写文件" />
-    <SUITE FILE_PATH="coverage/corePython$learn_myScript.coverage" NAME="learn_myScript Coverage Results" MODIFIED="1532615459895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/自定义模块" />
+    <SUITE FILE_PATH="coverage/corePython$learn_set.coverage" NAME="learn_set Coverage Results" MODIFIED="1532656470484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/set功能" />
     <SUITE FILE_PATH="coverage/corePython$learn_continue.coverage" NAME="learn_continue Coverage Results" MODIFIED="1532615836441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/循环" />
     <SUITE FILE_PATH="coverage/corePython$learn_readFile.coverage" NAME="learn_readFile Coverage Results" MODIFIED="1532511121469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/读写文件" />
     <SUITE FILE_PATH="coverage/corePython$learn_initClass.coverage" NAME="learn_initClass Coverage Results" MODIFIED="1532513241295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/class类" />
     <SUITE FILE_PATH="coverage/corePython$learn_while.coverage" NAME="learn_while Coverage Results" MODIFIED="1532497208167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/循环" />
     <SUITE FILE_PATH="coverage/corePython$learn_ddef.coverage" NAME="learn_ddef Coverage Results" MODIFIED="1532504394180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/def函数" />
     <SUITE FILE_PATH="coverage/corePython$learn_global.coverage" NAME="learn_global Coverage Results" MODIFIED="1532505130923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/变量" />
-    <SUITE FILE_PATH="coverage/corePython$learn_addTuple.coverage" NAME="learn_addTuple Coverage Results" MODIFIED="1532609488803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/元组vs列表" />
+    <SUITE FILE_PATH="coverage/corePython$learn_pickle.coverage" NAME="learn_pickle Coverage Results" MODIFIED="1532655514822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/pickle存放数据" />
     <SUITE FILE_PATH="coverage/corePython$learn_saveText.coverage" NAME="learn_saveText Coverage Results" MODIFIED="1532508162270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/读写文件" />
     <SUITE FILE_PATH="coverage/corePython$learn_if.coverage" NAME="learn_if Coverage Results" MODIFIED="1532503326506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/条件判断" />
-    <SUITE FILE_PATH="coverage/corePython$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1532496280466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/print()" />
     <SUITE FILE_PATH="coverage/corePython$test.coverage" NAME="test Coverage Results" MODIFIED="1532496721625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/数学计算" />
+    <SUITE FILE_PATH="coverage/corePython$learn_var.coverage" NAME="learn_var Coverage Results" MODIFIED="1532497005890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/自变量(variable)" />
+    <SUITE FILE_PATH="coverage/corePython$learn_input.coverage" NAME="learn_input Coverage Results" MODIFIED="1532513727966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/input" />
+    <SUITE FILE_PATH="coverage/corePython$learn_for.coverage" NAME="learn_for Coverage Results" MODIFIED="1532502369708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/循环" />
+    <SUITE FILE_PATH="coverage/corePython$learn_tuple.coverage" NAME="learn_tuple Coverage Results" MODIFIED="1532514442699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/元组" />
+    <SUITE FILE_PATH="coverage/corePython$learn_list.coverage" NAME="learn_list Coverage Results" MODIFIED="1532613295422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/多维列表" />
+    <SUITE FILE_PATH="coverage/corePython$learn_appendFile.coverage" NAME="learn_appendFile Coverage Results" MODIFIED="1532508358899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/读写文件" />
+    <SUITE FILE_PATH="coverage/corePython$learn_myScript.coverage" NAME="learn_myScript Coverage Results" MODIFIED="1532615459895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/自定义模块" />
+    <SUITE FILE_PATH="coverage/corePython$learn_addTuple.coverage" NAME="learn_addTuple Coverage Results" MODIFIED="1532609488803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/元组vs列表" />
+    <SUITE FILE_PATH="coverage/corePython$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1532496280466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/print()" />
     <SUITE FILE_PATH="coverage/corePython$learn_importMyModule.coverage" NAME="learn_importMyModule Coverage Results" MODIFIED="1532615513340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/自定义模块" />
     <SUITE FILE_PATH="coverage/corePython$learn_dic.coverage" NAME="learn_dic Coverage Results" MODIFIED="1532616709603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/字典dictionary" />
     <SUITE FILE_PATH="coverage/corePython$learn_class.coverage" NAME="learn_class Coverage Results" MODIFIED="1532512110536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/class类" />
     <SUITE FILE_PATH="coverage/corePython$learn_zip.coverage" NAME="learn_zip Coverage Results" MODIFIED="1532618072111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/zip" />
-    <SUITE FILE_PATH="coverage/corePython$learn_var.coverage" NAME="learn_var Coverage Results" MODIFIED="1532497005890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/自变量(variable)" />
-    <SUITE FILE_PATH="coverage/corePython$learn_input.coverage" NAME="learn_input Coverage Results" MODIFIED="1532513727966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/input" />
     <SUITE FILE_PATH="coverage/corePython$learn_import.coverage" NAME="learn_import Coverage Results" MODIFIED="1532615106821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/import模块" />
     <SUITE FILE_PATH="coverage/corePython$learn_copy.coverage" NAME="learn_copy Coverage Results" MODIFIED="1532618975605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/浅复制and深复制" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="learn_copy.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/浅复制and深复制/learn_copy.py">
+      <file leaf-file-name="learn_set.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/set功能/learn_set.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="209">
+              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -122,6 +113,8 @@
         <option value="$PROJECT_DIR$/.idea/zip/learn_zip.py" />
         <option value="$PROJECT_DIR$/.idea/浅复制and深复制.py" />
         <option value="$PROJECT_DIR$/.idea/浅复制and深复制/learn_copy.py" />
+        <option value="$PROJECT_DIR$/.idea/pickle存放数据/learn_pickle.py" />
+        <option value="$PROJECT_DIR$/.idea/set功能/learn_set.py" />
       </list>
     </option>
   </component>
@@ -137,9 +130,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="701" />
-    <option name="y" value="100" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="660" />
+    <option name="y" value="22" />
     <option name="width" value="1287" />
     <option name="height" value="667" />
   </component>
@@ -181,7 +174,7 @@
               <item name="corePython" type="b2602c69:ProjectViewProjectNode" />
               <item name="corePython" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="浅复制and深复制" type="462c0819:PsiDirectoryNode" />
+              <item name="set功能" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.learn_copy">
+  <component name="RunManager" selected="Python.learn_set">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -249,25 +242,6 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
-    </configuration>
-    <configuration name="learn_continue" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="corePython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/循环" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/循环/learn_continue.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="learn_copy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="corePython" />
@@ -307,7 +281,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="learn_importMyModule" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="learn_pickle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="corePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,12 +289,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/自定义模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/pickle存放数据" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/自定义模块/learn_importMyModule.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/pickle存放数据/learn_pickle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="learn_set" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="corePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea/set功能" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/set功能/learn_set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -369,18 +362,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.learn_dic" />
-      <item itemvalue="Python.learn_importMyModule" />
-      <item itemvalue="Python.learn_continue" />
       <item itemvalue="Python.learn_zip" />
       <item itemvalue="Python.learn_copy" />
+      <item itemvalue="Python.learn_pickle" />
+      <item itemvalue="Python.learn_set" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.learn_set" />
+        <item itemvalue="Python.learn_pickle" />
         <item itemvalue="Python.learn_copy" />
         <item itemvalue="Python.learn_zip" />
         <item itemvalue="Python.learn_dic" />
-        <item itemvalue="Python.learn_continue" />
-        <item itemvalue="Python.learn_importMyModule" />
       </list>
     </recent_temporary>
   </component>
@@ -394,15 +387,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532495318836</updated>
-      <workItem from="1532495323024" duration="23531000" />
+      <workItem from="1532495323024" duration="25819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23531000" />
+    <option name="totallyTimeSpent" value="25819000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="701" y="100" width="1287" height="667" extended-state="0" />
+    <frame x="660" y="22" width="1287" height="667" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -424,10 +417,10 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40877193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3736842" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.45065176" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15229653" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Theme Preview" />
@@ -646,6 +639,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/pickle存放数据/learn_pickle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/set功能/learn_set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
